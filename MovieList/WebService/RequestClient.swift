@@ -11,7 +11,7 @@ import UIKit
 class RequestClient {
     
     enum Endpoints {
-        static let base = "https://api.themoviedb.org/3"
+        static let base = "https://api.themoviedb.org/3/4"
         static let imagePath = "https://image.tmdb.org/t/p/w500"
         static let apiKey = "38e61227f85671163c275f9bd95a8803"
         
